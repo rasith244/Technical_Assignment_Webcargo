@@ -1,0 +1,14 @@
+.App {
+  font-family: sans-serif;
+}
+
+.TierPricing_Layout {
+  padding: 16px;
+}
+.errorInput {
+  border-color: red;
+}
+
+#promocode_input_text {
+  border-radius: 5px;
+}
